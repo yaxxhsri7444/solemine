@@ -92,8 +92,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-**yaxxhsri7444**
-- GitHub: [@yaxxhsri7444](https://github.com/yaxxhsri7444)
+- Saksham Srivastava
+- 🌐 LinkedIn : https://www.linkedin.com/in/saksham-srivastava-343088255
+- 💻 GitHub : https://github.com/yaxxhsri7444
+-  Gmail: srivastavasaksham243@gmail.com
 
 ## 🙏 Acknowledgments
 
